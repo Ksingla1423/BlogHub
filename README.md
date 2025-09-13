@@ -20,7 +20,7 @@ Create, manage, and share your thoughts with the world!
 
 - **Frontend:** Vite, React
 - **Backend:** Appwrite (Database, Auth, Storage)
-- **Styling:** CSS/SCSS/Tailwind (customize as needed)
+- **Styling:** CSS/Tailwind 
 
 ---
 
@@ -115,7 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Live Demo
 
-> _Add your deployed link here!_
+> https://blog-hub-azure.vercel.app/
 
 ---
 
