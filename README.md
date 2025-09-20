@@ -115,7 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Live Demo
 
-> https://blog-hub-azure.vercel.app/
+>https://blog-app-project.appwrite.network/
 
 ---
 
